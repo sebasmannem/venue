@@ -33,8 +33,17 @@ Capacities below were checked online on 2026-10-19 (venue websites and listing s
 | 17 | Meervaart | Amsterdam (Nieuw-West) | Theatre | Research | ❌ Halls of 800 and 275 | Rejected |
 | 18 | Amsterdam Congress Center | Amsterdam | Congress venue | Research | ❌ Max 750 theatre | Rejected |
 | 19 | EXPO Greater Amsterdam | Near Schiphol | Expo/congress venue | Research | ❌ Auditorium 350 | Rejected |
+| 20 | TivoliVredenburg | Utrecht (centre) | Concert venue | Research | ❓ To check (promising) | Not contacted |
+| 21 | NBC Congrescentrum | Nieuwegein | Congress centre | Research | ❓ To check | Not contacted |
+| 22 | 1931 Congrescentrum | 's-Hertogenbosch | Congress centre | Research | ❓ To check | Not contacted |
+| 23 | De Fabrique | Maarssen | Event venue | Research | ❓ No data found | Not contacted |
+| 24 | Postillion Utrecht Bunnik | Bunnik | Hotel + convention centre | Research | ❌ Can't do plenary + 4 tracks | Rejected |
+| 25 | De ReeHorst | Ede | Congress centre + hotel | Research | ❌ Theatre hall ~600 | Rejected |
+| 26 | Van der Valk Houten | Houten | Hotel venue | Research | ❌ Max 600 theatre | Rejected |
+| 27 | Cursus- en vergadercentrum Domstad | Utrecht | Meeting centre | Research | ❌ Rooms up to 350 | Rejected |
+| 28 | De Werelt | Lunteren | Conference hotel | Research | ❌ Probably too small (unconfirmed) | Rejected |
 
-Jaarbeurs, Leeuwenhorst, Van der Valk Breukelen and Van der Valk Utrecht are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
+Venues 2, 8–10 and 20–28 are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
 
 ## How venues were assessed
 
@@ -62,9 +71,9 @@ The largest congress centre in the Netherlands; capacity is not an issue.
 Large exhibition and congress centre next to Utrecht Centraal, so easy to reach by train. Outside Amsterdam.
 
 - **Plenary**: Beatrix Theater, up to 1,500.
-- **Breakouts**: 50+ conference rooms across several conference centres, up to ~650; Media Plaza across the road has an auditorium of ~200 and a space for ~650.
+- **Breakouts**: 50+ conference rooms across several conference centres, up to ~650; Media Plaza across the road has 65 rooms of ~4–650, an auditorium of ~200 and the Polar area for ~650.
 - **To check**: which rooms would be ours and how close they are to each other, other events in the building (A3), hotels nearby (H2).
-- Sources: [Jaarbeurs Beatrix Theatre](https://jaarbeurs.nl/en/organiser/beatrix-theatre/theatre), [Jaarbeurs Congressen (eventplanner)](https://eventplanner.co.uk/directory/634_jaarbeurs-congressen.html)
+- Sources: [Jaarbeurs Beatrix Theatre](https://jaarbeurs.nl/en/organiser/beatrix-theatre/theatre), [Jaarbeurs Congressen (eventplanner)](https://eventplanner.co.uk/directory/634_jaarbeurs-congressen.html), [Media Plaza (locaties.nl)](https://www.locaties.nl/en-US/venue/congrescentrum_media_plaza-193704)
 
 ### 10. NH Noordwijk Conference Centre Leeuwenhorst (Noordwijkerhout)
 
@@ -100,6 +109,37 @@ Piet Heinkade 11, near Amsterdam Centraal.
 - 22 rooms; Amsterdam '72 and Glasgow '72 Lounge up to 1,000, several rooms of 350–400.
 - **To check**: those are maximums, not theatre seating, and the venue itself pitches conferences of 100–800.
 - Sources: [Johan Cruijff ArenA congress](https://www.johancruijffarena.nl/en/business-events/congres/), [Johan Cruijff ArenA (locaties.nl)](https://www.locaties.nl/en-US/venue/johan_cruijff_arena-8212)
+
+### 20. TivoliVredenburg (Utrecht centre)
+
+Concert venue next to Utrecht Centraal, a short walk from city-centre hotels. Outside Amsterdam.
+
+- **Halls**: Grote Zaal ~1,700, Ronda ~2,000 (standing), Pandora ~625, Hertz ~543 seated, plus congress rooms.
+- **Promising**: four large halls in one building, so a plenary plus 3 × 300+ tracks looks possible.
+- **To check**: theatre seating per hall (concert figures differ), smaller rooms for Day 4 and the 200+ track, space for sponsors and catering for 900.
+- Sources: [TivoliVredenburg (Wikipedia)](https://en.wikipedia.org/wiki/TivoliVredenburg), [TivoliVredenburg halls](https://www.tivolivredenburg.nl/english/halls/), [TivoliVredenburg (locaties.nl)](https://www.locaties.nl/en-US/venue/tivolivredenburg-13302)
+
+### 21. NBC Congrescentrum (Nieuwegein)
+
+Blokhoeve 1, Nieuwegein, south of Utrecht. Rebuilt after a fire in 2022. No hotel on site (suggests Van der Valk Utrecht and Fletcher Nieuwegein).
+
+- **Halls**: Event Hall 300–1,750 (1,638 m²), Grand Hall 300–1,500 (1,515 m²), lounge 40–250.
+- **Breakouts**: 22 sub-rooms of up to 100 (200 combined).
+- **To check**: the 300+ tracks only work if the Grand Hall can be split into several soundproof rooms.
+- Sources: [NBC (locaties.nl)](https://www.locaties.nl/en-US/venue/nbc-99157), [NBC Congrescentrum (eventplanner)](https://www.eventplanner.net/directory/643_nbc-congrescentrum.html)
+
+### 22. 1931 Congrescentrum ('s-Hertogenbosch)
+
+~50 km south of Utrecht, 10 minutes' walk from 's-Hertogenbosch Centraal, next to the Brabanthallen.
+
+- **Halls**: 4 flexible congress halls, 25 sub-rooms, 2 foyers; Mainstage ~1,200 theatre; plenary up to 4,000.
+- **To check**: capacity per hall. No longer really "around Utrecht".
+- Sources: [1931 factsheet](https://www.organiseren-bij-libema.nl/wp-content/uploads/2024/04/ONLINE_2024_factsheet-1931.pdf), [1931 (locaties.nl)](https://www.locaties.nl/en-US/venue/1931_congrescentrum_s-hertogenbosch-10524), [Mainstage (hirespace)](https://hirespace.com/Spaces/Eindhoven/256588/1931-Congrescentrum/MAINSTAGE/Business)
+
+### 23. De Fabrique (Maarssen)
+
+- Claims events of up to 3,500 guests, but its conference page returned an error and no room details were found.
+- Source: [De Fabrique](https://defabrique.nl/en/conference-utrecht)
 
 ## Borderline
 
@@ -170,10 +210,17 @@ Winthontlaan 4-6, Utrecht; 185 hotel rooms, 23 meeting rooms.
 - **Amsterdam Congress Center**: max 750 theatre. [Hirespace](https://hirespace.com/Spaces/Amsterdam/225328/Amsterdam-Congress-Center/Meeting-Rooms/Events)
 - **EXPO Greater Amsterdam** (near Schiphol): auditorium of 350. [Factsheet](https://www.organiseren-bij-libema.nl/wp-content/uploads/2023/03/Online_International_Factsheet-Congreslocatie-Expo-Greater-Amsterdam.pdf)
 
+### 24–28. Venues around Utrecht that are too small
+
+- **Postillion Utrecht Bunnik**: plenary of 1,200 only with Zaal 19–23 + Indoor Garden combined; split, the largest room is 370 and the rest 180 or less. [locaties.nl](https://www.locaties.nl/en-US/venue/postillion_hotel_convention_centre_utrecht_bunnik-11078)
+- **De ReeHorst (Ede)**: theatre hall ~600, other theatre rooms of 200 and 150. [locaties.nl](https://www.locaties.nl/en-US/venue/reehorst-106046)
+- **Van der Valk Houten**: largest room 600 theatre. [naboo](https://www.naboo.app/explorer/houses/van-der-valk-hotel-utrecht)
+- **Cursus- en vergadercentrum Domstad (Utrecht)**: rooms up to 350. [locaties.nl](https://www.locaties.nl/en-US/venue/cursus_en_vergadercentrum_domstad-13845)
+- **De Werelt (Lunteren)**: conference hotel with rooms for parallel sessions; no capacities found, but looks too small for 900. [naboo](https://www.naboo.app/explorer/houses/hotel-et-congrescentrum-de-werelt)
+
 ## Other directions (not checked yet)
 
 - **Universities** (VU Amsterdam, Universiteit van Amsterdam, Amsterdam Science Park): large lecture halls plus many classrooms, which would suit Day 4 well. Check capacities and whether they rent out space in late October, during the academic term.
-- **TivoliVredenburg (Utrecht)**: concert venue with several large halls, if Utrecht stays an option.
 
 ## Alternative approach: event hall with built breakout rooms
 
@@ -181,7 +228,7 @@ Winthontlaan 4-6, Utrecht; 185 hotel rooms, 23 meeting rooms.
 
 ## Open questions
 
-- **Region**: Amsterdam only, or also Utrecht / central Netherlands / the coast? (Jaarbeurs and Leeuwenhorst are two of the three venues that probably pass.)
+- **Region**: Amsterdam only, or also Utrecht / central Netherlands / the coast? (Jaarbeurs and Leeuwenhorst are two of the three venues that probably pass, and TivoliVredenburg is the most promising unchecked option.)
 - **Breakout rooms**: must they be fully soundproof, or are separated zones in a larger hall acceptable? (Decides whether Circa or the built-rooms approach are options.)
 - **Hotel**: should hotel rooms be directly linked to the venue? (Hotel venue → H1, congress centre → H2.)
 - **Amsterdam options are thin**: RAI is still the only clear Amsterdam match. Westergas, ijVENUES and the ArenA need contact with the venue before they can be judged.
