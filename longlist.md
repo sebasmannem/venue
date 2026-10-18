@@ -42,8 +42,17 @@ Capacities below were checked online on 2026-10-19 (venue websites and listing s
 | 26 | Van der Valk Houten | Houten | Hotel venue | Research | ❌ Max 600 theatre | Rejected |
 | 27 | Cursus- en vergadercentrum Domstad | Utrecht | Meeting centre | Research | ❌ Rooms up to 350 | Rejected |
 | 28 | De Werelt | Lunteren | Conference hotel | Research | ❌ Probably too small (unconfirmed) | Rejected |
+| 29 | De Doelen ICC | Rotterdam (centre) | Concert hall + congress centre | Research | ✅ Probably meets (outside Amsterdam) | Not contacted |
+| 30 | Rotterdam Ahoy | Rotterdam (Zuid) | Congress/exhibition centre | Research | ✅ Probably meets (outside Amsterdam) | Not contacted |
+| 31 | World Forum | The Hague | Congress centre | Research | ✅ Probably meets (outside Amsterdam) | Not contacted |
+| 32 | MECC Maastricht | Maastricht | Congress/exhibition centre | Research | ✅ Probably meets (outside Amsterdam, far from Schiphol) | Not contacted |
+| 33 | Fokker Terminal | The Hague | Event venue | Research | ❓ To check | Not contacted |
+| 34 | Stadsgehoorzaal Leiden | Leiden | Concert hall | Research | ❓ To check | Not contacted |
+| 35 | Grand Hotel Huis ter Duin | Noordwijk | Hotel venue | Research | ❓ To check | Not contacted |
+| 36 | Evoluon | Eindhoven | Congress venue | Research | ❌ Too few 300+ rooms | Rejected |
+| 37 | High Tech Campus Conference Center | Eindhoven | Conference centre | Research | ❌ Auditorium 300 | Rejected |
 
-Venues 2, 8–10 and 20–28 are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
+Venues 2, 8–10 and 20–37 are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
 
 ## How venues were assessed
 
@@ -218,6 +227,70 @@ Winthontlaan 4-6, Utrecht; 185 hotel rooms, 23 meeting rooms.
 - **Cursus- en vergadercentrum Domstad (Utrecht)**: rooms up to 350. [locaties.nl](https://www.locaties.nl/en-US/venue/cursus_en_vergadercentrum_domstad-13845)
 - **De Werelt (Lunteren)**: conference hotel with rooms for parallel sessions; no capacities found, but looks too small for 900. [naboo](https://www.naboo.app/explorer/houses/hotel-et-congrescentrum-de-werelt)
 
+## Other Dutch cities
+
+Rotterdam, The Hague, Maastricht, Eindhoven and Leiden/Noordwijk were checked because they fit the pattern of previous host cities (see [previous-cities.md](previous-cities.md)): capitals or large, well-known cities that are easy to reach by air.
+
+### 29. De Doelen ICC (Rotterdam centre) — probably meets
+
+Schouwburgplein 50, a few minutes' walk from Rotterdam Centraal (~25 min by direct train from Schiphol).
+
+- **Plenary**: Grote Zaal, 800–1,755.
+- **Breakouts**: Willem Burger Zaal (fixed theatre seating, ~700), Jurriaanse Zaal (~465–523), Feestzaal (up to 450), plus 30+ sub-rooms of 20–270. That gives the plenary plus three 300+ tracks and a 200+ track.
+- **Other space**: large foyers (Grote Zaal Foyer up to 1,500, Hal Grote Zaal up to 1,100) for sponsors and catering.
+- **To check**: theatre-style seat counts for the Feestzaal and the largest sub-room, Day 4 rooms, hotels nearby (H2).
+- Sources: [de Doelen ICC (locaties.nl)](https://www.locaties.nl/en-US/venue/de_doelen_icc_rotterdam-184290), [Rotterdam event venues](https://www.rotterdam.info/en/state-of-the-art-event-venues-in-rotterdam-the-netherlands)
+
+### 30. Rotterdam Ahoy (Rotterdam Zuid) — probably meets
+
+Large congress and exhibition centre in the south of Rotterdam, connected to the city centre by metro.
+
+- **Plenary**: RTM Stage, 2,816 theatre (much larger than needed).
+- **Breakouts**: 35 rooms in the Convention Centre, 50 to ~1,000 each.
+- **Other space**: Expo Foyer ~2,300 m² for sponsors and catering.
+- **To check**: how many rooms seat 300+ theatre, whether the RTM Stage can be scaled down for 900, other events on site (A3), hotels nearby (H2).
+- Sources: [Ahoy floor plan](https://www.ahoy.nl/en/information/map), [Rotterdam Ahoy Convention Centre (locaties.nl)](https://www.locaties.nl/en-US/space/rotterdam_ahoy_convention_centre-78413), [About RACC (Rotterdam Partners)](https://en.rotterdampartners.nl/?p=33588)
+
+### 31. World Forum (The Hague) — probably meets
+
+International congress centre (used for UN and NATO conferences), ~30 minutes from Schiphol.
+
+- **Plenary**: King Willem-Alexander auditorium, up to 2,161 theatre.
+- **Breakouts**: 25–35 breakout rooms (sources disagree), directly connected to the auditorium.
+- **Other space**: ~12,000 m² exhibition space.
+- **To check**: breakout room sizes, any redevelopment plans (none found online), hotels nearby (H2).
+- Sources: [World Forum (The Hague Convention Bureau)](https://thehague.com/business/en/node/184), [World Forum (AIPC)](https://aipc.org/member/world-forum-convention-center-the-hague/), [World Forum (Wikipedia)](https://en.wikipedia.org/wiki/World_Forum_(The_Hague))
+
+### 32. MECC Maastricht — probably meets
+
+Large congress and exhibition centre, but ~2.5 hours by train from Schiphol. Closer airports (Maastricht Aachen, Liège, Eindhoven, Düsseldorf, Brussels) have fewer direct flights.
+
+- **Plenary**: two auditoria, up to 1,700 people.
+- **Breakouts**: 30–55 breakout rooms (sources disagree); rooms have hosted meetings of 300.
+- **Other space**: 2,500 m² expo foyer, 30,000 m² exhibition space.
+- **To check**: theatre capacity per auditorium and per breakout room, travel for international attendees.
+- Sources: [MECC Maastricht (Cvent)](https://cvent.com/venues/maastricht/exposition-center/mecc%20maastricht/venue-8992de04-c44e-400b-bef6-2ed339c9b985), [ESB 2023 venue](https://esbiomech.org/conference/esb2023/?p=196), [MECC (AEO)](https://www.aeo.org.uk/members/mecc-full)
+
+### 33. Fokker Terminal (The Hague) — to check
+
+- Event venue (former hangar); plenary of 150–1,000, possibly combined with an exhibition floor. No breakout information found.
+- Source: [Conference centres near Leiden (eventplanner)](https://www.eventplanner.co.uk/conference-hall-centre-rental/in-NL2300-leiden.html)
+
+### 34. Stadsgehoorzaal Leiden — to check
+
+- Concert hall listed at up to 1,600 people. No breakout information found; Leiden has no large congress centre.
+- Source: [Cultural venues in Noordwijk (locaties.nl)](https://www.locaties.nl/en-US/landing/cultural-venues-for-meetings-events-in-noordwijk)
+
+### 35. Grand Hotel Huis ter Duin (Noordwijk) — to check
+
+- Seaside hotel with ~250 rooms and 19 meeting rooms. Capacity claims conflict (max 400 vs. up to 2,500), so the largest room is unknown.
+- Sources: [Huis ter Duin (eventplanner)](https://www.eventplanner.co.uk/directory/982_grand-hotel-huis-ter-duin.html), [Huis ter Duin (naboo)](https://www.naboo.app/explorer/houses/grand-hotel-huis-ter-duin)
+
+### 36–37. Eindhoven venues that are too small
+
+- **Evoluon**: Dome 600–1,200 (plenary), Philips Hall ~460, other rooms up to 200–250. Only one 300+ room besides the Dome. [Evoluon (eventplanner)](https://www.eventplanner.ie/directory/2989_evoluon-eindhoven.html), [Next Nature Museum (locaties.nl)](https://www.locaties.nl/en-US/venue/next_nature_museum-60395)
+- **High Tech Campus Conference Center**: auditorium of 300. [MEMEA 2024 venue](https://memea2024.ieee-ims.org/travel/venue)
+
 ## Other directions (not checked yet)
 
 - **Universities** (VU Amsterdam, Universiteit van Amsterdam, Amsterdam Science Park): large lecture halls plus many classrooms, which would suit Day 4 well. Check capacities and whether they rent out space in late October, during the academic term.
@@ -228,7 +301,7 @@ Winthontlaan 4-6, Utrecht; 185 hotel rooms, 23 meeting rooms.
 
 ## Open questions
 
-- **Region**: Amsterdam only, or also Utrecht / central Netherlands / the coast? (Jaarbeurs and Leeuwenhorst are two of the three venues that probably pass, and TivoliVredenburg is the most promising unchecked option.)
+- **Region**: Amsterdam only, or also other Dutch cities? Outside Amsterdam, Rotterdam (De Doelen, Ahoy), The Hague (World Forum), Utrecht (Jaarbeurs, TivoliVredenburg), Leeuwenhorst and MECC Maastricht all look feasible. Rotterdam and The Hague fit the pattern of previous host cities best.
 - **Breakout rooms**: must they be fully soundproof, or are separated zones in a larger hall acceptable? (Decides whether Circa or the built-rooms approach are options.)
 - **Hotel**: should hotel rooms be directly linked to the venue? (Hotel venue → H1, congress centre → H2.)
 - **Amsterdam options are thin**: RAI is still the only clear Amsterdam match. Westergas, ijVENUES and the ArenA need contact with the venue before they can be judged.
