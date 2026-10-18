@@ -6,6 +6,7 @@ Sources:
 
 - **PDF**: `congres gebouw 900 personen ….pdf`, a venue suggestion (in Dutch) for one 900-person plenary, 4 × 300+ breakouts, a ~25-person lounge and a quiet room.
 - **Sebas**: `sebaslist.txt`
+- **Research**: venues found by searching online for other options in and around Amsterdam.
 
 Capacities below were checked online on 2026-10-19 (venue websites and listing sites; see Sources per venue). Listings sometimes disagree, so every venue still has to confirm real seat counts (R1). Notes marked *(PDF)* are claims from the PDF that haven't been confirmed.
 
@@ -22,8 +23,18 @@ Capacities below were checked online on 2026-10-19 (venue websites and listing s
 | 7 | Tropenmuseum (KIT) | Amsterdam (Oost) | Museum / historic building | Sebas | ❌ Largest room 445 | Rejected |
 | 8 | Van der Valk Breukelen | Breukelen | Hotel venue | Sebas | ❌ Largest room 140 | Rejected |
 | 9 | Van der Valk Utrecht | Utrecht | Hotel venue | Sebas | ❌ Max 500 theatre | Rejected |
+| 10 | NH Noordwijk Conference Centre Leeuwenhorst | Noordwijkerhout | Conference hotel | Research | ✅ Probably meets (outside Amsterdam) | Not contacted |
+| 11 | Westergas | Amsterdam (West) | Venue complex (separate buildings) | Research | ❓ To check | Not contacted |
+| 12 | ijVENUES | Amsterdam (IJ waterfront) | Conference centre + hotel | Research | ❓ To check | Not contacted |
+| 13 | Hotel Okura | Amsterdam (Zuid) | Hotel venue | Research | ⚠️ Borderline: needs ballroom split, no 200+ room | Not contacted |
+| 14 | Johan Cruijff ArenA | Amsterdam (Zuidoost) | Stadium event spaces | Research | ❓ To check | Not contacted |
+| 15 | Anantara Grand Hotel Krasnapolsky | Amsterdam (centre) | Hotel venue | Research | ❌ Largest room ~560 | Rejected |
+| 16 | Theater Amsterdam | Amsterdam (West) | Theatre | Research | ❌ One big hall, no breakouts | Rejected |
+| 17 | Meervaart | Amsterdam (Nieuw-West) | Theatre | Research | ❌ Halls of 800 and 275 | Rejected |
+| 18 | Amsterdam Congress Center | Amsterdam | Congress venue | Research | ❌ Max 750 theatre | Rejected |
+| 19 | EXPO Greater Amsterdam | Near Schiphol | Expo/congress venue | Research | ❌ Auditorium 350 | Rejected |
 
-Jaarbeurs, Van der Valk Breukelen and Van der Valk Utrecht are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
+Jaarbeurs, Leeuwenhorst, Van der Valk Breukelen and Van der Valk Utrecht are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
 
 ## How venues were assessed
 
@@ -55,6 +66,41 @@ Large exhibition and congress centre next to Utrecht Centraal, so easy to reach 
 - **To check**: which rooms would be ours and how close they are to each other, other events in the building (A3), hotels nearby (H2).
 - Sources: [Jaarbeurs Beatrix Theatre](https://jaarbeurs.nl/en/organiser/beatrix-theatre/theatre), [Jaarbeurs Congressen (eventplanner)](https://eventplanner.co.uk/directory/634_jaarbeurs-congressen.html)
 
+### 10. NH Noordwijk Conference Centre Leeuwenhorst (Noordwijkerhout)
+
+Large conference hotel ~40 km from Amsterdam, near the coast. Outside Amsterdam.
+
+- **Plenary**: Atrium, ~1,400 theatre (largest room ~989 m²).
+- **Breakouts**: Rotonde 500–600 theatre, auditorium 150–250, ~120 meeting rooms in total, several combinable.
+- **Hotel**: on site, so venue and accommodation in one place (H1).
+- **To check**: current per-room theatre figures (listings disagree), travel from Schiphol / Amsterdam for international attendees.
+- Sources: [Leeuwenhorst (onemeeting)](https://onemeeting.com/en/location/NH_Noordwijk_Conference_Centre_Leeuwenhorst/222), [Leeuwenhorst (meetings-conventions)](https://www.meetings-conventions.com/Meeting-Event-Venues/Noordwijkerhout-Netherlands/Convention-Hotel/NH-Noordwijk-Conference-Ctr-Leeuwenhorst-p51080075)
+
+## To check
+
+### 11. Westergas (Amsterdam West)
+
+Former gasworks turned into a venue complex in a park.
+
+- **Plenary**: Gashouder, ~2,100 theatre (older factsheet), or Zuiveringshal West, ~1,000 theatre.
+- **Breakouts**: De Wester (former Transformatorhuis), 500 theatre; Westergastheater, 250 theatre.
+- **Concerns**: the halls are separate buildings, so attendees walk outside between talks in late October. The Gashouder was listed as under construction until 2026. Most figures come from older factsheets.
+- Sources: [Westergasfabriek factsheet](https://www.uniquevenuesofamsterdam.com/wp-content/uploads/2014/08/English-Factsheet-Westergasfabriek-20161.pdf), [De Wester brochure 2026](https://uniquevenuesofamsterdam.com/wp-content/uploads/2021/07/De-Wester-Westergas-Brochure-2026-EN.pdf), [Gashouder](https://uniquevenuesofamsterdam.com/en/venue/gashouder/)
+
+### 12. ijVENUES (Amsterdam, IJ waterfront)
+
+Piet Heinkade 11, near Amsterdam Centraal.
+
+- Listed with an auditorium, 20 breakout rooms, 4,000 m² exhibition space and a 408-room hotel on site; one listing says "up to 1,900 seated".
+- **To check**: capacity per room. The address matches the Mövenpick hotel, and the name may cover several nearby venues.
+- Source: [ijVENUES (hirespace)](https://hirespace.com/Spaces/Amsterdam/225719/IjVENUES/Meeting-Rooms/Events)
+
+### 14. Johan Cruijff ArenA (Amsterdam Zuidoost)
+
+- 22 rooms; Amsterdam '72 and Glasgow '72 Lounge up to 1,000, several rooms of 350–400.
+- **To check**: those are maximums, not theatre seating, and the venue itself pitches conferences of 100–800.
+- Sources: [Johan Cruijff ArenA congress](https://www.johancruijffarena.nl/en/business-events/congres/), [Johan Cruijff ArenA (locaties.nl)](https://www.locaties.nl/en-US/venue/johan_cruijff_arena-8212)
+
 ## Borderline
 
 ### 3. Beurs van Berlage (Amsterdam)
@@ -67,6 +113,13 @@ Historic, sustainable congress centre in the centre of Amsterdam.
 - **Quiet room**: one of the smaller committee rooms *(PDF)*.
 - **To check**: what they can offer for the fourth room ("some flexibility on sizes" is allowed), step-free access in a historic building (Y1), room for 12–15 sponsor stands near catering, lunch for 900 within an hour, hotels nearby (H2).
 - Sources: [Room overview](https://beursvanberlage.com/organise/room-overview/), [Effectenbeurszaal](https://beursvanberlage.com/organise/room-overview/effectenbeurszaal/), [Beurs van Berlage (iamsterdam)](https://acceptance.iamsterdam.com/en/conventions/venue-finder/amsterdam-conference-centre-beurs-van-berlage)
+
+### 13. Hotel Okura (Amsterdam Zuid)
+
+- **Plenary**: Grand Ballroom, 1,015 theatre, divisible into 5 sections.
+- **Breakouts**: Heian I/II ~494; all other rooms ~155 or less.
+- **Problem**: the 300+ tracks only work by splitting the ballroom, which then has to be rearranged for each plenary within the 30-minute break, and there is still no 200+ room. Same issue as Beurs van Berlage.
+- Sources: [Hotel Okura meetings & events](https://okura.com/netherlands/amsterdam/hotel-okura-amsterdam/meetings-events/), [Hotel Okura (iamsterdam)](https://iamsterdam.com/en/conventions/venue-finder/hotel-okura-amsterdam)
 
 ## Rejected
 
@@ -109,13 +162,26 @@ Winthontlaan 4-6, Utrecht; 185 hotel rooms, 23 meeting rooms.
 - **Plenary**: theatre capacity "from 0 to 500 people" across the hotel, so the largest room is at most 500. No exhibition space mentioned.
 - Source: [Van der Valk Hotel Utrecht – Meetings & Events](https://www.vandervalkhotelutrecht.nl/meetings-events/)
 
+### 15–19. Other Amsterdam venues that are too small
+
+- **Anantara Grand Hotel Krasnapolsky** (formerly NH Krasnapolsky): Grand Ballroom ~560 theatre. [Meetings page](https://www.anantara.com/en/grand-hotel-krasnapolsky-amsterdam/meetings)
+- **Theater Amsterdam**: one hall of 1,100, only a Blackbox for breakouts. [Conference page](https://www.theateramsterdam.nl/en/conference)
+- **Meervaart**: theatre halls of 800 and 275. [Conference page](https://meervaart.nl/en/meetings-events/conference-amsterdam)
+- **Amsterdam Congress Center**: max 750 theatre. [Hirespace](https://hirespace.com/Spaces/Amsterdam/225328/Amsterdam-Congress-Center/Meeting-Rooms/Events)
+- **EXPO Greater Amsterdam** (near Schiphol): auditorium of 350. [Factsheet](https://www.organiseren-bij-libema.nl/wp-content/uploads/2023/03/Online_International_Factsheet-Congreslocatie-Expo-Greater-Amsterdam.pdf)
+
+## Other directions (not checked yet)
+
+- **Universities** (VU Amsterdam, Universiteit van Amsterdam, Amsterdam Science Park): large lecture halls plus many classrooms, which would suit Day 4 well. Check capacities and whether they rent out space in late October, during the academic term.
+- **TivoliVredenburg (Utrecht)**: concert venue with several large halls, if Utrecht stays an option.
+
 ## Alternative approach: event hall with built breakout rooms
 
-*(PDF)* If a venue has no four fixed 300+ rooms, a common solution at this size is a large event or expo hall where a stand builder (for example The Inside Standbouw) builds soundproofed breakout rooms of 100–500 people with their own AV and lighting. This opens up larger halls (Inspyrium is named as an example). The extra costs must be quoted up front (C2), and acoustic separation needs checking.
+*(PDF)* If a venue has no four fixed 300+ rooms, a common solution at this size is a large event or expo hall where a stand builder (for example The Inside Standbouw) builds soundproofed breakout rooms of 100–500 people with their own AV and lighting. This opens up larger halls (Inspyrium is named as an example; EXPO Haarlemmermeer is an obvious hall near Amsterdam, not checked yet). The extra costs must be quoted up front (C2), and acoustic separation needs checking.
 
 ## Open questions
 
-- **Region**: Amsterdam only, or also Utrecht / central Netherlands? (Jaarbeurs is currently one of only two venues that pass.)
+- **Region**: Amsterdam only, or also Utrecht / central Netherlands / the coast? (Jaarbeurs and Leeuwenhorst are two of the three venues that probably pass.)
 - **Breakout rooms**: must they be fully soundproof, or are separated zones in a larger hall acceptable? (Decides whether Circa or the built-rooms approach are options.)
 - **Hotel**: should hotel rooms be directly linked to the venue? (Hotel venue → H1, congress centre → H2.)
-- **Longlist is short**: only RAI is a clear Amsterdam match. Consider adding more Amsterdam congress venues before making a shortlist.
+- **Amsterdam options are thin**: RAI is still the only clear Amsterdam match. Westergas, ijVENUES and the ArenA need contact with the venue before they can be judged.
