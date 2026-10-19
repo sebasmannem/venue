@@ -53,8 +53,9 @@ Sorted by verdict: ✅ probably meets, ⚠️ borderline, ❓ to check, ❌ reje
 | 35 | De Werelt | Lunteren | Conference hotel | Research | ❌ Probably too small (unconfirmed) | Rejected |
 | 36 | Evoluon | Eindhoven | Congress venue | Research | ❌ Too few 300+ rooms | Rejected |
 | 37 | High Tech Campus Conference Center | Eindhoven | Conference centre | Research | ❌ Auditorium 300 | Rejected |
+| 38 | Expo Houten | Houten | Expo/congress venue | Sebas | ❌ Congress room 350; plenary only in an expo hall | Rejected |
 
-Venues 2–7, 13–19 and 29–37 are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
+Venues 2–7, 13–19 and 29–38 are outside Amsterdam, which doesn't fit the "somewhere in Amsterdam" brief.
 
 ## Contacts
 
@@ -315,13 +316,23 @@ Winthontlaan 4-6, Utrecht; 185 hotel rooms, 23 meeting rooms.
 - **36. Evoluon**: Dome 600–1,200 (plenary), Philips Hall ~460, other rooms up to 200–250. Only one 300+ room besides the Dome. [Evoluon (eventplanner)](https://www.eventplanner.ie/directory/2989_evoluon-eindhoven.html), [Next Nature Museum (locaties.nl)](https://www.locaties.nl/en-US/venue/next_nature_museum-60395)
 - **37. High Tech Campus Conference Center**: auditorium of 300. [MEMEA 2024 venue](https://memea2024.ieee-ims.org/travel/venue)
 
+### 38. Expo Houten
+
+Meidoornkade 24, Houten, ~10 km south-east of Utrecht next to the A27. Bus 47 from Utrecht Centraal or Houten station; ~9 minutes by OV-fiets from Houten station. No hotel on site. Outside Amsterdam.
+
+- **Plenary**: no fixed hall for 900. The congress room (Wilgenzaal, 360 m², renovated in 2025) holds 350; for more, the venue proposes an expo hall.
+- **Breakouts**: Wilgenzaal (350), Eikenzaal + Iepenzaal combined (200), other rooms 60 or less. Not enough for 3 × 300+.
+- **Expo halls**: Hal 1 (1,850 m²), Hal 2 (1,950 m²), Hal 3 (3,300 m²) and Hal 4 (2,150 m²), 5–5.5 m high; Hal 3 + 4 combine into 5,500 m². Only an option with the built-rooms approach (see below).
+- Contact: info@expohouten.nl, +31 30 634 9100.
+- Sources: [Congres](https://www.expohouten.nl/congres/), [Wilgenzaal](https://www.expohouten.nl/over-expohouten/wilgenzaal/), [Beurshallen](https://www.expohouten.nl/onze-beurshallen/), [Routebeschrijving](https://www.expohouten.nl/routebeschrijving/)
+
 ## Other directions (not checked yet)
 
 - **Universities** (VU Amsterdam, Universiteit van Amsterdam, Amsterdam Science Park): large lecture halls plus many classrooms, which would suit Day 4 well. Check capacities and whether they rent out space in late October, during the academic term.
 
 ## Alternative approach: event hall with built breakout rooms
 
-*(PDF)* If a venue has no four fixed 300+ rooms, a common solution at this size is a large event or expo hall where a stand builder (for example The Inside Standbouw) builds soundproofed breakout rooms of 100–500 people with their own AV and lighting. This opens up larger halls (Inspyrium is named as an example; EXPO Haarlemmermeer is an obvious hall near Amsterdam, not checked yet). The extra costs must be quoted up front (C2), and acoustic separation needs checking.
+*(PDF)* If a venue has no four fixed 300+ rooms, a common solution at this size is a large event or expo hall where a stand builder (for example The Inside Standbouw) builds soundproofed breakout rooms of 100–500 people with their own AV and lighting. This opens up larger halls (Inspyrium is named as an example; EXPO Haarlemmermeer is an obvious hall near Amsterdam, not checked yet; Expo Houten (#38) has 1,850–5,500 m² halls next to a 350-seat congress room). The extra costs must be quoted up front (C2), and acoustic separation needs checking.
 
 ## Open questions
 
