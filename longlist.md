@@ -10,6 +10,102 @@ Sources:
 
 Capacities below were checked online on 2026-10-19 (venue websites and listing sites; see Sources per venue). Listings sometimes disagree, so every venue still has to confirm real seat counts (R1). Notes marked *(PDF)* are claims from the PDF that haven't been confirmed.
 
+## 2028 re-check (2026-11-21)
+
+The [2028 update](venue-requirements.md#2028-update-2026-11-06) changes the brief: a **hotel**, 700–750 people,
+week 42 (16–22 Oct 2028), one room for 750 plus 2 × ~300 (separate, or the big room split) plus 2 × 100–200,
+in or near Amsterdam, Utrecht or The Hague (Breukelen as fallback, not Maastricht/Eindhoven).
+The room need is much lower than the 2027 spec (900 + 3 × 300 + 200), so some venues that failed before now pass on rooms.
+Week 42 availability is unknown for every venue, since none has been contacted yet.
+The verdicts in the overview below are still the 2027 ones.
+
+### Hotels
+
+| # | Venue | Location | Rooms (2028) | 2028 verdict |
+|---|---|---|---|---|
+| 9 | Hotel Okura | Amsterdam Zuid ✅ | Ballroom 1,015 (5 sections) for 750 or split in 2; Heian I/II ~494; rooms up to ~155 for the 2 small rooms ✅ | ✅ **Best match**: was borderline only because of the 2027 room count |
+| 11 | ijVENUES (Mövenpick) | Amsterdam ✅ | Unknown per room; "up to 1,900 seated", 20 breakout rooms | ❓ **Top priority to check** |
+| 22 | Postillion Amsterdam | Amsterdam ✅ | Hall of 8 × ~121 (1,200 total); split 3+3+1+1 gives ~363/363/121/121, but then all rooms come from one hall; other rooms ≤ 75 | ⚠️ Borderline: only works if the whole hall is re-split after each plenary |
+| 6 | NH Leeuwenhorst | Noordwijkerhout ⚠️ (~25 min by road from Schiphol, no station) | Atrium ~1,400, Rotonde 500–600, auditorium 150–250, many smaller rooms ✅ | ⚠️ Rooms fit; location is outside the three cities |
+| 31 | Postillion Utrecht Bunnik | Bunnik (next to Utrecht) ✅ | 1,200 combined; split, the largest room is 370 and the rest ≤ 180, so only one ~300 room | ⚠️ Borderline: ask whether 2 × ~300 is possible |
+| 16 | Grand Hotel Huis ter Duin | Noordwijk ⚠️ | Unknown (sources say 400 or 2,500) | ❓ Low priority (location) |
+| 24 | Krasnapolsky | Amsterdam ✅ | Ballroom ~560 | ❌ No room for 750 |
+| 29 | Van der Valk Breukelen | Breukelen (fallback) | Largest room 140 | ❌ No room for 750 |
+| 30 | Van der Valk Utrecht | Utrecht ✅ | Max 500 | ❌ No room for 750 |
+| 33 | Van der Valk Houten | Houten | Max 600 | ❌ No room for 750 |
+| 32 | De ReeHorst | Ede ❌ | Max ~600 | ❌ Location and size |
+| 35 | De Werelt | Lunteren ❌ | Probably small | ❌ Location and size |
+
+### Not hotels, but in an allowed location (fallback if no hotel works)
+
+These meet the 2028 room need (or might), but are congress centres or event venues, so attendees would need nearby hotels (H2).
+
+| # | Venue | Location | 2028 note |
+|---|---|---|---|
+| 1 | RAI Amsterdam | Amsterdam | Rooms ✅; likely large and expensive for 750 |
+| 8 | Beurs van Berlage | Amsterdam | Rooms now ✅: Grote Zaal 1,300 + Effectenbeurszaal ~750 + Graanbeurszaal ~800 + rooms of 150. The 2027 problem (4th track) is gone |
+| 5 | Jaarbeurs | Utrecht | Rooms ✅ |
+| 13 | TivoliVredenburg | Utrecht | Rooms look ✅ (Grote Zaal + Pandora + Hertz + congress rooms); theatre counts still to check |
+| 14 | NBC Congrescentrum | Nieuwegein (Utrecht) | Probably ✅ with option (a): Grand Hall split in 2, lounge (up to 250) and combined sub-rooms (200) as small rooms |
+| 4 | World Forum | The Hague | Rooms ✅ |
+| 15 | Fokker Terminal | The Hague | ❓ No breakout info |
+| 10 | Westergas | Amsterdam | ❓ Separate buildings |
+| 12 | Johan Cruijff ArenA | Amsterdam | ❓ Rooms of 350–400 now look sufficient; theatre counts to check |
+| 19 | De Fabrique | Maarssen (near Utrecht/Breukelen) | ❓ No data |
+| 21 | LIEF | Amsterdam | ⚠️ The Main is 700 theatre (just under 750), The Arch 300, The Pit ~200; one more small room needed |
+| 27 | Amsterdam Congress Center | Amsterdam | ⚠️ Max 750 theatre is a brochure figure; real seats (R1) will be lower |
+
+The other rejected Amsterdam/Utrecht venues (Circa, KIT, Theater Amsterdam, Meervaart, EXPO Greater Amsterdam, Domstad, Expo Houten) still fail on rooms.
+
+### Dropped on location
+
+De Doelen and Ahoy (Rotterdam), MECC (Maastricht), Evoluon and High Tech Campus (Eindhoven), 1931 ('s-Hertogenbosch), Stadsgehoorzaal (Leiden), De ReeHorst (Ede), De Werelt (Lunteren).
+
+### New hotels found (2026-11-21)
+
+Online search for hotels with a room for 750 in Amsterdam/Schiphol, around Utrecht/Breukelen and The Hague–Leiden.
+Figures come from listing sites (Cvent, locaties.nl, travelweekly-asia, hirespace) and old factsheets, not from the hotels themselves; sources often disagree.
+
+| Hotel | Location | Hotel rooms | Rooms (2028) | 2028 verdict |
+|---|---|---|---|---|
+| Van der Valk Hotel Schiphol | Rijksweg A4 nr 3, Hoofddorp, ~10 km from Schiphol | 714–725 | New York hall ~800 theatre (hotel site; locaties says 850–900), splits into New York 1/2/3 of ~275 each; Brussel 1–4 250; 25 rooms in total | ✅ **Probably meets**: closest fit to the brief. Confirm 2 rooms of 100–200 and sponsor/lunch space |
+| Maritim Hotel Amsterdam | Bercylaan 307, Amsterdam (postcode 1031, so probably Noord; confirm) | 579 | "Maritim" hall 2,142 theatre, "Amsterdam" hall 1,035 theatre, Berlin A+B+C 230, Munich 150 (splits in 2) | ✅ Probably meets, but ask whether a hall splits into 2 × ~300 |
+| Postillion Hotel & Convention Centre The Hague | Waldorpstraat 15, next to Den Haag HS (~30 min by direct train from Schiphol) | 198 (hotel opens 2027) | Congres 2+3 1,400; Congres 3 and 4 900 each (may be a Cvent copy error), Congres 2 500, Congres 1 250, rooms of 125 | ✅ Probably meets on rooms; new and unproven, few hotel rooms, so attendees also need other hotels |
+| Leonardo Royal Hotel Amsterdam | Paul van Vlissingenstraat 24, Amstel business district | 490 | Amstel Ballroom 768 theatre, splits into 270 + 210 + 270; other rooms ≤ ~106 | ⚠️ Ballroom only just fits 750, and no separate 100–200 rooms |
+| Grand Hotel Amrâth Kurhaus | Scheveningen | 270 | Kurzaal 600 theatre (750 is a brochure max), Jacob Pronk 550, Gallerij up to 350, Jan Toorop up to 200 | ⚠️ About 150 seats short for the plenary; good breakout set |
+| Hotel Theater Figi | Zeist, ~20–25 min by bus from Utrecht CS | ~100 | Theatre 572 fixed seats (incl. balcony); rooms of 130–250 | ⚠️ About 180 seats short; only option near Utrecht that comes close |
+
+Contacts:
+
+| Hotel | Email | Phone |
+|---|---|---|
+| Van der Valk Schiphol | sales@schiphol.valk.nl | +31 252 62 9293 |
+| Maritim Amsterdam | meeting.ams@maritim.com (from Cvent) | Not found |
+| Postillion The Hague | Not found; use [postillionhotels.com](https://postillionhotels.com/?p=6905) | Not found |
+| Leonardo Royal Amsterdam | events.royalamsterdam@leonardo-hotels.nl | +31 85 076 5960 |
+| Amrâth Kurhaus | Not found | Not found |
+| Figi | sales@figi.nl | +31 30 692 7550 |
+
+Sources: [Van der Valk Schiphol](https://www.hotelschiphol.nl/meetings-events/), [New York 1-2-3 (locaties.nl)](https://www.locaties.nl/en-US/space/new_york_-_1_2_3-85328),
+[Maritim (Cvent)](https://www.cvent.com/venues/en-US/amsterdam/hotel/maritim-hotel-amsterdam/venue-3ad61113-8708-4f9a-9707-2a43a5963a73),
+[Postillion The Hague (Cvent)](https://cvent.com/venues/the-hague/hotel/postillion-hotel-convention-center-the-hague/venue-b30f961d-1888-46fe-9922-0daf468aa65e), [Postillion The Hague (convention bureau)](https://thehague.com/conventionbureau/en/node/328),
+[Leonardo Royal (Cvent)](https://www.cvent.com/venues/en-US/amsterdam/hotel/leonardo-royal-hotel-amsterdam/venue-66202771-1359-441b-b255-cf171243f6f8),
+[Kurzaal (locaties.nl)](https://locaties.nl/en-US/space/kurzaal-119673),
+[Figi theatre (locaties.nl)](https://locaties.nl/en-US/space/hendrik_marsmanzaal-22523).
+
+Checked and too small (largest room below 750 theatre):
+
+- **Amsterdam/Schiphol**: Park Plaza Amsterdam Airport (650 incl. foyer), Hilton Amsterdam Airport Schiphol (640), Steigenberger Airport (620), Sheraton Amsterdam Airport (~550), Novotel Amsterdam City (525), NH Amsterdam Schiphol Airport (450–500), Radisson Blu Airport (435), Hilton Amsterdam (~418), Corendon Village Badhoevedorp (400), Holiday Inn Arena Towers (400), Novotel Schiphol (~360), Amsterdam Marriott (350–450), Hotel Casa (~350), nhow RAI, DoubleTree Centraal, Hyatt Regency, InterContinental Amstel, Crowne Plaza South (all ≤ ~220).
+- **Utrecht/Breukelen**: Landgoed Zonheuvel (500), Van der Valk Veenendaal (450), DoubleTree Royal Parc Soestduinen (400), Woudschoten (350), Nyenrode Breukelen (~320), Kasteel De Vanenburg (300), Crowne Plaza Utrecht Centraal (250), NH Utrecht (240), Mercure Amersfoort, Lapershoek, Mitland, Karel V, Inntel, Court Hotel, Hampton (all smaller). Fletcher Nieuwegein is unclear (250–600 across listings).
+- **The Hague–Leiden**: NH Den Haag (500–650), Van der Valk Sassenheim (590–650, only by combining all rooms), Van der Valk Nootdorp (500), Marriott (400), Hilton (300), Leonardo Royal Promenade (350), Van der Valk Wassenaar (350–400), Novotel World Forum, Des Indes, Carlton Beach, Mövenpick, Van der Valk Leiden and Delft, WestCord Delft, Fletcher Leidschendam, Hilton Garden Inn Leiden (all smaller). Holiday Inn Leiden has closed as a hotel.
+
+### Gaps
+
+- **Few hotels fit**: across Amsterdam, Utrecht and The Hague only Okura, Van der Valk Schiphol, Maritim and Postillion The Hague look able to seat 750. ijVENUES still needs checking.
+- **Utrecht has no hotel for 750**: the nearest is Figi (572). In Utrecht, only congress venues (Jaarbeurs, TivoliVredenburg, NBC) work.
+- **No Breukelen fallback**: Van der Valk Breukelen (140) and Nyenrode (~320) are far too small.
+- **Week 42**: availability and rates must be asked of each venue. Check also for big events in the same week that push up hotel prices (Amsterdam Dance Event is usually mid-to-late October).
+
 ## Overview
 
 Sorted by verdict: ✅ probably meets, ⚠️ borderline, ❓ to check, ❌ rejected.

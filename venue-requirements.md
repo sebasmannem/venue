@@ -5,6 +5,22 @@ venues against. The **Complete** document is the authoritative one; the requirem
 (C1, A1, R1, …) below refer to it. Points that only appear in, or differ in, the older
 short spec (`PGConf.EU Venue Requirements 2027.pdf`) are marked as such.
 
+## 2028 update (2026-11-06)
+
+New information for the 2028 edition. It **overrides** the 2027 spec below wherever they differ.
+
+| Item | 2028 requirement |
+|---|---|
+| Venue type | A **hotel** rather than a congress centre |
+| Attendees | 700–750 |
+| Days | 4 conference days |
+| When | Week 42 of 2028: Mon 16 – Sun 22 October (Tue–Fri would be 17–20 Oct) |
+| Rooms | 1 big room for 750, plus either **(a)** the big room split into 2 medium rooms, or **(b)** 2 separate rooms of ~300 each; plus 2 smaller rooms of 100–200 |
+| Location | Close to Schiphol: Amsterdam, Utrecht or The Hague. Breukelen is a fallback option. Not Maastricht or Eindhoven. |
+
+The [longlist](longlist.md#2028-re-check-2026-11-21) was re-checked against this on 2026-11-21.
+Hotels in Amsterdam, Utrecht and The Hague were researched the same day. Still to do: confirm rooms and check week 42 availability with each venue.
+
 ## At a glance
 
 | Item | Requirement |
